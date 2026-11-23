@@ -16,18 +16,17 @@ Multi-channel EMG armband being built to control BioTron's bionic arm. One contr
 
 Open-source pipeline that turns patient CT scans into virtual patients with ground-truth SPECT images and absorbed-dose maps, using Monte Carlo simulation. Built at BC Cancer. Presented at EANM and AAPM.
 
+**AI platform for radiologists**
+
+An accessible AI platform built for radiologists, developed with Dr. Philip Edgcumbe and Armin Saghafian and continuing earlier work by Dr. Sara Hosseinirad. In progress.
+
 **[UBC Rocket](https://github.com/UBC-Rocket)**
 
 Redesigned the avionics into a modular four-board stack in Altium: STM32 flight controller, GPS/radio, pyro, and a battery-managed backplane over SPI, vacuum-chamber tested across flight pressures. Led over 100 members on a rocket that reached 31,000 ft at IREC 2026, a UBC record.
 
 **Solid-state Tesla coil**
 
-Half-bridge IGBT coil that self-tunes to its ~300 kHz resonance. Designed the PCB, gate drive, coil and enclosure.
-
-## Research
-
-- Qualified silicon strip detector modules for the ATLAS Inner Tracker upgrade at UBC (NSERC Undergraduate Student Research Award). Built a second Peltier-cooled cold box that doubled testing throughput.
-- Ultrasound research at the UBC Robotics and Controls Lab, measuring microrod concentration on a Verasonics Vantage.
+Half-bridge IGBT coil that self-tunes to its ~300 kHz resonance, built for a UBC physics course (PHYS 420) from the LabCoatz design. Built the driver and designed the coil, top load and enclosure.
 
 ## Contact
 
