@@ -6,11 +6,11 @@ I build hardware for medical imaging: high-voltage ultrasound electronics, multi
 
 **[Multi-channel ultrasound system](https://github.com/peteryazdi/Medical_Imaging_Ultrasound_fromScratch)**
 
-Ultrasound imaging system built from scratch on my own budget. Rev 0 is a 4-layer, 2-channel high-voltage transmit board, designed for ±100 V and tested in a water tank with 5 MHz transducers. Rev 1, an 8-channel 10 MHz transmit and receive system with FPGA beamforming, is under development.
+Ultrasound imaging system built from scratch on my own budget. Rev 0 is a 4-layer, 2-channel high-voltage transmit board, designed for ±100 V and tested in a water tank with 5 MHz transducers. Rev 1, a 4-channel 5 MHz transmit and receive system with FPGA pulse timing, is in design, with FPGA beamforming to follow.
 
-**BioTron EMG sensor board**
+**[EMG Band](https://github.com/peteryazdi/EMG-Band)**
 
-Designing a custom PCB for the EMG sensor of BioTron, the University of Waterloo biomechatronics design team, moving it from perfboard to a portable, battery-powered board.
+Multi-channel EMG armband being built to control BioTron's bionic arm. One control board in the band, with an 8-channel ADS1299 front end and an STM32WB55 that streams over USB or Bluetooth, running from USB-C or a rechargeable battery with on-board charging and protection. Control board in design.
 
 **[PyTheraTwin](https://github.com/qurit/PyTheraTwin)**
 
